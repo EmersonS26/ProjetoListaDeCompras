@@ -12,4 +12,4 @@ O projeto consiste em criar uma aplicação, onde tendo uma certa quantia em din
   4. Criar um objeto compra com a descrição e valor informados;
   5. Registrar a compra no cartão de crédito e imprimir na tela se ela foi realizada ou não (de acordo com o saldo remanescente);
   6. Perguntar se o usuário deseja registrar uma nova compra ou finalizar;
-  7. Caso ele deseje continuar, repetir os passos de 3 a 6, caso não, imprimir na tela o saldo final do cartão e a lista de compras realizadas, ordenadas pelo valor.
+  7. Caso ele deseje continuar, repetir os passos x vezes(conforme saldo), caso não, imprimir na tela o saldo final do cartão e a lista de compras realizadas, ordenadas pelo valor.
